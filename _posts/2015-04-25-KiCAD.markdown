@@ -1,5 +1,5 @@
 ---
-title:  "introduction to KiCAD"
+title:  "Introduction to KiCAD"
 subtitle: "It's always a bit messy"
 author: "Jesned George Mathew"
 avatar: "img/authors/wferr.png"
