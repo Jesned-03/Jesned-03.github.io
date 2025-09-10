@@ -1,9 +1,9 @@
 ---
 title:  "introduction to KiCAD"
 subtitle: "It's always a bit messy"
-author: "Wferr"
+author: "Jesned George Mathew"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "https://tse2.mm.bing.net/th/id/OIP.GYxHUjvKp6PUUAIGC91F2wHaFG?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
 date:   2015-04-25 12:12:12
 ---
 
