@@ -3,7 +3,7 @@ title:  "Introduction to KiCAD"
 subtitle: "It's always a bit messy"
 author: "Jesned George Mathew"
 avatar: "img/authors/wferr.png"
-image: "https://static.filehorse.com/screenshots/photo-and-design/kicad-screenshot-02.png"
+image: "https://www.viasion.com/wp-content/uploads/2024/06/PCB-Layout.jpg"
 date:   2015-04-25 12:12:12
 ---
 
